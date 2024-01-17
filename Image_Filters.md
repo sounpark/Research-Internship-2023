@@ -336,7 +336,9 @@ public class ImageFilterMedian{
 ### output
 
 original image
+
 ![Alt text](./Image/median_filter_input.png)
 
 filtered image
+
 ![Alt text](./Image/median_filter_output.jpg)
