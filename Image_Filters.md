@@ -260,16 +260,16 @@ public class ImageFilterGaussian {
 ### outputs
 
 original image
-![Alt text]("D:\박소운\IR\Image\gaussian_original.png")
+![Alt text](./Image/gaussian_original.png)
 
 gray scale image
-![Alt text]("D:\박소운\IR\Image\gaussian_grayscale.png")
+![Alt text](./Image/gaussian_grayscale.png)
 
 gaussian filter (kernel 3)
-![Alt text]("D:\박소운\IR\Image\gaussian_n3.png")
+![Alt text](./Image/gaussian_n3.png)
 
 gaussian filter (kernel 7)
-![Alt text]("D:\박소운\IR\Image\gaussian_n7.png")
+![Alt text](./Image/gaussian_n7.png)
 
 gaussian filter (kernel 21)
-![Alt text]("D:\박소운\IR\Image\gaussian_n21.png")
+![Alt text](./Image/gaussian_n21.png)
