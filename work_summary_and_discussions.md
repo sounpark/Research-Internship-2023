@@ -14,7 +14,8 @@
 
 - worked with gaussain filter (tried applying filter on color image, salt and pepper image)
 - worked with median filter (tried applying filter on colored salt and pepper image)
-- tried to find weiner filter, bilinear filter, failed
+- tried to find weiner filter, failed
+- found bilateral filter, struggled to use
 - set research topic: best filter in PET, CT, MRI (brain scanning)
 - searched for brain scanning images on MedPix(National Library of Medicine)
   - were lots of CT and MRI, but lack of PET
