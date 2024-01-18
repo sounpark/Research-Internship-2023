@@ -340,6 +340,9 @@ public class ImageFilterMedian{
 ```
 
 ### adding salt and pepper noise to image
+
+code link: [salt and pepper](https://github.com/K4m0/Salt-and-Pepper-Noise/blob/master/Main.java)
+
 ```java
 
 import java.nio.file.Path;
