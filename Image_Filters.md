@@ -265,14 +265,16 @@ original image
 gray scale image
 ![Alt text](./Image/gaussian_grayscale.png)
 
-gaussian filter (kernel 3)
+gray scale image gaussian (kernel 3)
 ![Alt text](./Image/gaussian_n3.png)
 
-gaussian filter (kernel 7)
+gray scale image gaussian (kernel 7)
 ![Alt text](./Image/gaussian_n7.png)
 
-gaussian filter (kernel 21)
+gray scale image gaussian (kernel 21)
 ![Alt text](./Image/gaussian_n21.png)
+
+colored image gaussian (kernel 3)
 
 ***
 
@@ -339,6 +341,7 @@ original image
 
 ![Alt text](./Image/median_filter_input.png)
 
-filtered image
+filtered image (gray scale)
 
 ![Alt text](./Image/median_filter_output.jpg)
+
