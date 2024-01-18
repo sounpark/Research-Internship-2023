@@ -265,16 +265,20 @@ original image
 gray scale image
 ![Alt text](./Image/gaussian_grayscale.png)
 
-gray scale image gaussian (kernel 3)
+gaussian filtered (grayscale, kernel 3)
 ![Alt text](./Image/gaussian_n3.png)
 
-gray scale image gaussian (kernel 7)
+gaussian filtered (grayscale, kernel 7)
 ![Alt text](./Image/gaussian_n7.png)
 
-gray scale image gaussian (kernel 21)
+gaussian filtered (grayscale, kernel 21)
 ![Alt text](./Image/gaussian_n21.png)
 
-colored image gaussian (kernel 3)
+gaussian filtered (colored, kernel 3)
+![Alt text](./Image/gaussian_colored_n3.png)
+
+gaussian filtered (salt and pepper noise, kernel 3)
+![Alt text](./Image/gaussian_saltandpepper.png)
 
 ***
 
@@ -338,10 +342,16 @@ public class ImageFilterMedian{
 ### output
 
 original image
+![Alt text](./Image/gaussian_original.png)
 
-![Alt text](./Image/median_filter_input.png)
+salt and pepper noised (color)
+![Alt text](./Image/median_colored_input.png)
 
-filtered image (gray scale)
+median filtered (color)
+![Alt text](./Image/median_colored_output.png)
 
-![Alt text](./Image/median_filter_output.jpg)
+salt and pepper noised (gray scale)
+![Alt text](./Image/median_grayscale_input.png)
 
+median filtered (gray scale)
+![Alt text](./Image/median_grayscale_output.png)
